@@ -176,7 +176,7 @@ require_once("db.php");
             <div class="thumbnail candidate-img">
               <img src="img/interviewed.jpeg" alt="Apply & Get Interviewed">
               <div class="caption">
-                <h3 class="text-center"Panggilan Wawancara</h3>
+                <h3 class="text-center"Mendapat Panggilan Wawancara</h3>
               </div>
             </div>
           </div>
@@ -196,8 +196,8 @@ require_once("db.php");
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center latest-job margin-bottom-20">
-            <h1>Companies</h1>
-            <p>Hiring? Register your company for free, browse our talented pool, post and track job applications</p>            
+            <h1>Perusahaan</h1>
+            <p>Hiring? Daftarkan perusahaan Anda secara gratis, Temukan para pekerja sesuai kriteria yang Anda inginkan</p>            
           </div>
         </div>
         <div class="row">
@@ -205,7 +205,7 @@ require_once("db.php");
             <div class="thumbnail company-img">
               <img src="img/postjob.png" alt="Browse Jobs">
               <div class="caption">
-                <h3 class="text-center">Post A Job</h3>
+                <h3 class="text-center"Unggah Lowongan kerja</h3>
               </div>
             </div>
           </div>
@@ -213,7 +213,7 @@ require_once("db.php");
             <div class="thumbnail company-img">
               <img src="img/manage.jpg" alt="Apply & Get Interviewed">
               <div class="caption">
-                <h3 class="text-center">Manage & Track</h3>
+                <h3 class="text-center">Pilih & Temukan</h3>
               </div>
             </div>
           </div>
@@ -221,7 +221,7 @@ require_once("db.php");
             <div class="thumbnail company-img">
               <img src="img/hire.png" alt="Start A Career">
               <div class="caption">
-                <h3 class="text-center">Hire</h3>
+                <h3 class="text-center">Pekerjakan</h3>
               </div>
             </div>
           </div>
