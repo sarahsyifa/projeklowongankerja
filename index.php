@@ -168,7 +168,7 @@ require_once("db.php");
             <div class="thumbnail candidate-img">
               <img src="img/browse.jpg" alt="Browse Jobs">
               <div class="caption">
-                <h3 class="text-center">Browse Jobs</h3>
+                <h3 class="text-center">Cari Lowongan</h3>
               </div>
             </div>
           </div>
@@ -176,7 +176,7 @@ require_once("db.php");
             <div class="thumbnail candidate-img">
               <img src="img/interviewed.jpeg" alt="Apply & Get Interviewed">
               <div class="caption">
-                <h3 class="text-center">Apply & Get Interviewed</h3>
+                <h3 class="text-center"Panggilan Wawancara</h3>
               </div>
             </div>
           </div>
@@ -184,7 +184,7 @@ require_once("db.php");
             <div class="thumbnail candidate-img">
               <img src="img/career.jpg" alt="Start A Career">
               <div class="caption">
-                <h3 class="text-center">Start A Career</h3>
+                <h3 class="text-center">Mulai Bekerja</h3>
               </div>
             </div>
           </div>
