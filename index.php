@@ -56,7 +56,7 @@ require_once("db.php");
       <div class="navbar-custom-menu">
         <ul class="nav navbar-nav">
           <li>
-            <a href="jobs.php">Jobs</a>
+            <a href="jobs.php">Lowongan Pekerjaan</a>
           </li>
           <li>
             <a href="#candidates">Candidates</a>
