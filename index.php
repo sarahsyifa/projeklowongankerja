@@ -116,7 +116,7 @@ require_once("db.php");
       <div class="container">
         <div class="row">
           <div class="col-md-12 latest-job margin-bottom-20">
-            <h1 class="text-center">Latest Jobs</h1>            
+            <h1 class="text-center">Lowongan Terbaru</h1>            
             <?php 
           /* Show any 4 random job post
            * 
@@ -159,8 +159,8 @@ require_once("db.php");
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center latest-job margin-bottom-20">
-            <h1>Candidates</h1>
-            <p>Finding a job just got easier. Create a profile and apply with single mouse click.</p>            
+            <h1>Pencari Kerja</h1>
+            <p>Mencari pekerjaan jadi lebih mudah. Buat profil dan lakukan dengan satu klik mouse.</p>            
           </div>
         </div>
         <div class="row">
