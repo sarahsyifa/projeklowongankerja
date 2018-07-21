@@ -89,7 +89,7 @@ require_once("db.php");
           </li>
           <?php } ?>
           <li>
-            <a href="logout.php">Logout</a>
+            <a href="logout.php">Keluar</a>
           </li>
           <?php } ?>
         </ul>
@@ -104,9 +104,9 @@ require_once("db.php");
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center index-head">
-            <h1>All <strong>JOBS</strong> In One Place</h1>
+            <h1>Cari <strong>Lowongan Kerja</strong> Tanpa Harus Kemana-mana</h1>
             <p>One search, global reach</p>
-            <p><a class="btn btn-success btn-lg" href="jobs.php" role="button">Search Jobs</a></p>
+            <p><a class="btn btn-success btn-lg" href="jobs.php" role="button">Cari Lowongan</a></p>
           </div>
         </div>
       </div>
