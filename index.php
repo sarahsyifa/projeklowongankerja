@@ -59,13 +59,13 @@ require_once("db.php");
             <a href="jobs.php">Lowongan Pekerjaan</a>
           </li>
           <li>
-            <a href="#candidates">Candidates</a>
+            <a href="#candidates">Pencari Kerja</a>
           </li>
           <li>
-            <a href="#company">Company</a>
+            <a href="#company">Perusahaan</a>
           </li>
           <li>
-            <a href="#about">About Us</a>
+            <a href="#about">Tentang Kami</a>
           </li>
           <?php if(empty($_SESSION['id_user']) && empty($_SESSION['id_company'])) { ?>
           <li>
