@@ -197,7 +197,7 @@ require_once("db.php");
         <div class="row">
           <div class="col-md-12 text-center latest-job margin-bottom-20">
             <h1>Perusahaan</h1>
-            <p>Hiring? Daftarkan perusahaan Anda secara gratis, Temukan para pekerja sesuai kriteria yang Anda inginkan</p>            
+            <p>Cari Pekerja? Daftarkan perusahaan Anda secara gratis, Temukan para pekerja sesuai kriteria yang Anda inginkan</p>            
           </div>
         </div>
         <div class="row">
@@ -205,7 +205,7 @@ require_once("db.php");
             <div class="thumbnail company-img">
               <img src="img/postjob.png" alt="Browse Jobs">
               <div class="caption">
-                <h3 class="text-center"Unggah Lowongan kerja</h3>
+                <h3 class="text-center">Unggah Lowongan kerja</h3>
               </div>
             </div>
           </div>
