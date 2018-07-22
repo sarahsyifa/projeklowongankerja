@@ -337,7 +337,7 @@ require_once("db.php");
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center latest-job margin-bottom-20">
-            <h1>About US</h1>                      
+            <h1>Tentang Kami</h1>                      
           </div>
         </div>
         <div class="row">
