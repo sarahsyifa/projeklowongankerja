@@ -233,7 +233,7 @@ require_once("db.php");
       <div class="container">
         <div class="row">
           <div class="col-md-12 text-center latest-job margin-bottom-20">
-            <h1>Our Statistics</h1>
+            <h1>Statistik Kami</h1>
           </div>
         </div>
         <div class="row">
@@ -252,7 +252,7 @@ require_once("db.php");
                     ?>
               <h3><?php echo $totalno; ?></h3>
 
-              <p>Job Offers</p>
+              <p>Saran Lowongan Kerja</p>
             </div>
             <div class="icon">
               <i class="ion ion-ios-paper"></i>
@@ -275,7 +275,7 @@ require_once("db.php");
                     ?>
               <h3><?php echo $totalno; ?></h3>
 
-              <p>Registered Company</p>
+              <p>Perusahaan Yang Terdaftar</p>
             </div>
             <div class="icon">
                 <i class="ion ion-briefcase"></i>
@@ -298,7 +298,7 @@ require_once("db.php");
                     ?>
               <h3><?php echo $totalno; ?></h3>
 
-              <p>CV'S/Resume</p>
+              <p>CV/Resume Pencari Kerja</p>
             </div>
             <div class="icon">
               <i class="ion ion-ios-list"></i>
@@ -321,7 +321,7 @@ require_once("db.php");
                     ?>
               <h3><?php echo $totalno; ?></h3>
 
-              <p>Daily Users</p>
+              <p>Pencari Kerja</p>
             </div>
             <div class="icon">
               <i class="ion ion-person-stalker"></i>
@@ -345,11 +345,11 @@ require_once("db.php");
             <img src="img/browse.jpg" class="img-responsive">
           </div>
           <div class="col-md-6 about-text margin-bottom-20">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing <p>The online job portal application allows job seekers and recruiters to connect.The application provides the ability for job seekers to create their accounts, upload their profile and resume, search for jobs, apply for jobs, view different job openings. The application provides the ability for companies to create their accounts, search candidates, create job postings, and view candidates applications.
+            <p><p align="justify">Aplikasi portal kerja online memungkinkan pencari kerja dan perekrut untuk terhubung. Aplikasi ini menyediakan kemampuan bagi pencari kerja untuk membuat akun mereka, mengunggah profil mereka dan melanjutkan, mencari pekerjaan, melamar pekerjaan, melihat lowongan pekerjaan yang berbeda. Aplikasi ini menyediakan kemampuan bagi perusahaan untuk membuat akun mereka, mencari kandidat, membuat lowongan pekerjaan, dan melihat aplikasi kandidat.
             </p>
-            <p>
-              This website is used to provide a platform for potential candidates to get their dream job and excel in yheir career.
-              This site can be used as a paving path for both companies and job-seekers for a better life .
+            <p align="justify">
+             Situs web ini digunakan untuk menyediakan platform bagi calon potensial untuk mendapatkan pekerjaan impian mereka dan unggul dalam karirnya masing-masing.
+             Situs ini dapat digunakan sebagai jalur pintas bagi perusahaan dan pencari kerja untuk kehidupan yang lebih baik
               
             </p>
           </div>
@@ -362,7 +362,7 @@ require_once("db.php");
 
   <footer class="main-footer" style="margin-left: 0px;">
     <div class="text-center">
-      <strong>Copyright &copy; 2016-2017 <a href="learningfromscratch.online">Job Portal</a>.</strong> All rights
+      <strong>Copyright &copy; 2018 Cari Kerja</a>.</strong> All rights
     reserved.
     </div>
   </footer>
